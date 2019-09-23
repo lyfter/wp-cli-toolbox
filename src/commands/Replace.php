@@ -14,14 +14,7 @@ class Replace
     private $searchLike;
     
     /**
-     * The lyfter replace command.
-     *
-     * This command takes two arguments.
-     * The first arguments is the value that needs to be searched for.
-     * The second argument is the value that we will replace the matching content with
-     *
-     * Example usage;
-     * wp lyfter replace example.lyfter.com example.com
+     * Calls the command
      *
      * @param $args
      */
