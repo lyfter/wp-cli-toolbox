@@ -1,0 +1,20 @@
+{
+    "name": "lyfter/wp-cli-toolbox",
+    "homepage": "https://github.com/peters97/wp-cli-toobox.git",
+    "authors": [
+        {
+            "name": "Daan Peters",
+            "email": "daan@lyfter.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lyfter\\WP_CLI\\": "src/"
+        },
+        "files": [ "command.php" ]
+    },
+    "require": {},
+    "require-dev": {
+        "wp-cli/wp-cli": "^1.0"
+    }
+}
