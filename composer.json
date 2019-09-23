@@ -9,7 +9,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lyfter\\WP_CLI\\": "src/"
+            "Lyfter\\WP_CLI\\": "src/",
+            "Lyfter\\WP_CLI\\Commands\\": "src/commands"
         },
         "files": [ "command.php" ]
     },
