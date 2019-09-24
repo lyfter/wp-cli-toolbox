@@ -7,11 +7,11 @@ Naturally this package requires wp-cpi. If you do not have wp-cli installed on y
 After installing wp-cli you're ready to install this package using the package command:
 
 ```bash
- wp package install https://github.com/peters97/wp-cli-toobox.git
+ wp package install https://github.com/lyfter/wp-cli-toolbox.git
 ```
 
 ## Usage
-```bash
+```
 NAME
 
   wp lyfter
