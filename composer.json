@@ -1,7 +1,7 @@
 {
     "name": "lyfter/wp-cli-toolbox",
     "description": "Toolbox containing useful commands for Wordpress development",
-    "homepage": "https://github.com/peters97/wp-cli-toobox.git",
+    "homepage": "https://github.com/lyfter/wp-cli-toolbox.git",
     "authors": [
         {
             "name": "Daan Peters",
